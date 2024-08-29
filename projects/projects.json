@@ -5,8 +5,8 @@
     "image": "port",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": "https://portfolio-pvish.netlify.app/"
+      "view": "https://portfolio-pvish.netlify.app/",
+      "code": "https://github.com/pvishwakarma09/portfolio09"
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "pass",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": "https://mg-pass.netlify.app/"
+      "view": "https://mg-pass.netlify.app/",
+      "code": "https://github.com/pvishwakarma09/password-manager"
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "todo",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": "https://todo-pvish.netlify.app/"
+      "view": "https://todo-pvish.netlify.app/",
+      "code": "https://github.com/pvishwakarma09/React-todo-app"
     }
   },
   {
@@ -35,8 +35,8 @@
     "image": "weather",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": "https://pvish-weather.netlify.app/"
+      "view": "https://pvish-weather.netlify.app/",
+      "code": "https://github.com/pvishwakarma09/React-todo-app"
     }
   },
   {
@@ -45,8 +45,8 @@
     "image": "quiz",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": "https://pvish-quizweb.netlify.app/"
+      "view": "https://pvish-quizweb.netlify.app/",
+      "code": "https://github.com/pvishwakarma09/QuizWebApp-task-3"
     }
   },
   {
@@ -55,8 +55,8 @@
     "image": "book",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": "https://ordermybook.netlify.app"
+      "view": "https://ordermybook.netlify.app",
+      "code": "https://github.com/pvishwakarma09/OrderMyBook"
     }
   },
   {
@@ -65,8 +65,8 @@
     "image": "amcl",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": "https://github.com/pvishwakarma09"
+      "view": "https://github.com/pvishwakarma09",
+      "code": "https://github.com/pvishwakarma09/Amazonclone"
     }
   }
   
