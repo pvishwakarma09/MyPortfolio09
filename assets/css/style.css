@@ -333,7 +333,7 @@ header .navbar ul li a:hover {
   }
   /* Margin-top ==>>> changes -12 rem to 1 rem. */
   .home .image img {
-    margin-top: 1rem;
+    margin-top: -8rem;
   }
   .home .content p {
     font-size: 2.2rem;
