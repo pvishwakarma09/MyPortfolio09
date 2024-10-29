@@ -1,15 +1,5 @@
 [
   {
-    "name": "Personal Portfolio",
-    "desc": "A clean, responsive site using HTML5, CSS3, JavaScript, Particle.js, and Vanilla.js, with Tawk API for real-time chat.",
-    "image": "port",
-    "category": "mern",
-    "links": {
-      "view": "https://portfolio-pvish.netlify.app/",
-      "code": "https://github.com/pvishwakarma09/portfolio09"
-    }
-  },
-  {
     "name": "Password Manger Web App",
     "desc": "A React password manager for saving, editing, and copying passwords, with UUID, React Toastify, and local storage.",
     "image": "pass",
@@ -69,5 +59,4 @@
       "code": "https://github.com/pvishwakarma09/Amazonclone"
     }
   }
-  
 ]
