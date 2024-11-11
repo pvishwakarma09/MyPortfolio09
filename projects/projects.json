@@ -5,7 +5,7 @@
     "image": "pass",
     "category": "mern",
     "links": {
-      "view": "https://mg-pass.netlify.app/",
+      "view": "https://pvordermybook.netlify.app/",
       "code": "https://github.com/pvishwakarma09/password-manager"
     }
   },
@@ -15,7 +15,7 @@
     "image": "todo",
     "category": "mern",
     "links": {
-      "view": "https://todo-pvish.netlify.app/",
+      "view": "https://pvtodo.netlify.app/",
       "code": "https://github.com/pvishwakarma09/React-todo-app"
     }
   },
@@ -25,7 +25,7 @@
     "image": "weather",
     "category": "mern",
     "links": {
-      "view": "https://pvish-weather.netlify.app/",
+      "view": "https://pvweather.netlify.app/",
       "code": "https://github.com/pvishwakarma09/React-todo-app"
     }
   },
@@ -35,7 +35,7 @@
     "image": "quiz",
     "category": "mern",
     "links": {
-      "view": "https://pvish-quizweb.netlify.app/",
+      "view": "https://pvquizweb.netlify.app/",
       "code": "https://github.com/pvishwakarma09/QuizWebApp-task-3"
     }
   },
@@ -45,7 +45,7 @@
     "image": "book",
     "category": "mern",
     "links": {
-      "view": "https://ordermybook.netlify.app",
+      "view": "https://pvordermybook.netlify.app/",
       "code": "https://github.com/pvishwakarma09/OrderMyBook"
     }
   },
