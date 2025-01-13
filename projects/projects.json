@@ -1,5 +1,15 @@
 [
   {
+    "name": "CodeCollabX-Real Time Code Collaboration",
+    "desc": "CodeCollabX - Real-Time Code Collaborationenables seamless coding with instant syncing across virtual rooms using React, Node.js, and Socket.io. ",
+    "image": "pass",
+    "category": "mern",
+    "links": {
+      "view": "https://codecollabx-frontend.onrender.com/",
+      "code": "https://github.com/pvishwakarma09/MiniProject2024_CodeCollabX"
+    }
+  },
+  {
     "name": "Password Manger Web App",
     "desc": "A React password manager for saving, editing, and copying passwords, with UUID, React Toastify, and local storage.",
     "image": "pass",
